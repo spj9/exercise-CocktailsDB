@@ -1,0 +1,10 @@
+.nav {
+  background-color: rgb(69, 97, 121);
+  display: flex;
+  gap: 1rem;
+  padding-block: 1rem;
+  padding-left: 3rem;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
